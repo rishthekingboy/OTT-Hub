@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "updatedAt": "2026-05-31",
+  "apps": [
+    {
+      "id": "jiotv",
+      "title": "JioTV",
+      "subtitle": "Live TV channels",
+      "category": "Live TV",
+      "url": "https://www.jiotv.com/",
+      "mode": "external",
+      "color": "#0b6bff",
+      "initials": "Jio"
+    },
+    {
+      "id": "youtube",
+      "title": "YouTube",
+      "subtitle": "Videos and live streams",
+      "category": "Video",
+      "url": "https://www.youtube.com/tv",
+      "mode": "external",
+      "color": "#ff0033",
+      "initials": "YT"
+    },
+    {
+      "id": "mxplayer",
+      "title": "MX Player",
+      "subtitle": "Shows, movies, and originals",
+      "category": "OTT",
+      "url": "https://www.mxplayer.in/",
+      "mode": "external",
+      "color": "#0f9dff",
+      "initials": "MX"
+    },
+    {
+      "id": "sonyliv",
+      "title": "Sony LIV",
+      "subtitle": "Sports and entertainment",
+      "category": "OTT",
+      "url": "https://www.sonyliv.com/",
+      "mode": "external",
+      "color": "#24135f",
+      "initials": "SL"
+    },
+    {
+      "id": "hotstar",
+      "title": "JioHotstar",
+      "subtitle": "Movies, shows, and sports",
+      "category": "OTT",
+      "url": "https://www.hotstar.com/",
+      "mode": "external",
+      "color": "#071d3a",
+      "initials": "HS"
+    },
+    {
+      "id": "wikipedia",
+      "title": "Wikipedia",
+      "subtitle": "Example embedded site",
+      "category": "Info",
+      "url": "https://www.wikipedia.org/",
+      "mode": "iframe",
+      "color": "#6f7784",
+      "initials": "W"
+    }
+  ]
+}
